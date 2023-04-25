@@ -1,0 +1,6 @@
+.banner{
+    display: flex;
+}
+.banner__img{
+    width: 100%;
+}
